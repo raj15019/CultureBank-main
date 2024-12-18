@@ -193,7 +193,7 @@ dependencies:
       - distro==1.9.0
       - docstring-parser==0.15
       - einops==0.6.1
-      - en-core-web-lg
+      - en_core_web_lg-3.8.0-py3-none-any.whl
       - en-core-web-md
       - en-core-web-sm
       - evaluate==0.4.1
